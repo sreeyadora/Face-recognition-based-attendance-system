@@ -1,6 +1,6 @@
 🚀 Face Recognition Based Attendance System
 
-Real-time attendance capture using face detection & machine learning**
+Real-time attendance capture using face detection & machine learning
 Built with Haar Cascade + KNN, featuring a sleek Flask web interface.
 
 ---
