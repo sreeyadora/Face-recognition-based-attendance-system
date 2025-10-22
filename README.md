@@ -1,6 +1,7 @@
 🚀 Face Recognition Based Attendance System
 
 A smart attendance system powered by deep learning that uses facial recognition to automatically track and record the attendance of students or employees in real time using live video feeds.
+
 Real-time attendance capture using face detection & machine learning
 Built with Haar Cascade + KNN, featuring a sleek Flask web interface.
 
